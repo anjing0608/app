@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\pre-dexed\debug\classes-524d2dff7fe7ff00c9cddd3f1755846f9bf8b979.jar" />
+    </item>
+    <item
+        jar="C:\Users\niruliang\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\pre-dexed\debug\library-2.4.0-476f393d0cc1fccb82b947dd052b659465ddaf9a.jar" />
+    </item>
+    <item
+        jar="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\pre-dexed\debug\classes-e442c3c3b5d2475ceb149b923659f98e1f74fc1b.jar" />
+    </item>
+    <item
+        jar="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\pre-dexed\debug\classes-5537db5b5c9b6a5d1a7beead722c46047af8b560.jar" />
+    </item>
+    <item
+        jar="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\pre-dexed\debug\classes-92b4901006057c8045e58b3700dab78f572d3968.jar" />
+    </item>
+    <item
+        jar="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.24.1\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="50bae83a0680cb90776a4d36bb6aa4911a84fd8b">
+        <dex dex="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-765212156efe84d9f644e13fb3646605e5b051e7.jar" />
+    </item>
+    <item
+        jar="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-af6f702c4fe9c0945d17ea3e581a8c8a076d358a.jar" />
+    </item>
+    <item
+        jar="C:\Users\niruliang\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\pre-dexed\debug\okio-1.6.0-500b36f10221edb590a710d673d869e03800a01b.jar" />
+    </item>
+    <item
+        jar="C:\Users\niruliang\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-ws\2.5.0\e9753b7dcae5deca92e871c5c759067070b07bc\okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-2.5.0-57cba60a11010c186dfb54a9111ddaa9ede47681.jar" />
+    </item>
+    <item
+        jar="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.24.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d12931c7b260dda5ba99b8c89cd6ec2a104abed3">
+        <dex dex="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\pre-dexed\debug\classes-0a8de7c4c88776720726512a1e1e89e1a15ebd29.jar" />
+    </item>
+    <item
+        jar="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\pre-dexed\debug\classes-d6030a347c6922a7e5737f0261264a7396d2bb37.jar" />
+    </item>
+    <item
+        jar="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\pre-dexed\debug\classes-39f6696d1ffc3307bab4f33b07158873724dc2f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\niruliang\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.3\1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14\jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.3-3abacdc6147f3b2c08545cfe62a7cfb4922e1717.jar" />
+    </item>
+    <item
+        jar="C:\Users\niruliang\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-51eb8da0bcc1d151e799538fbeee9a488c6034df.jar" />
+    </item>
+    <item
+        jar="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\pre-dexed\debug\classes-691a1988a8088fa446a3bee0014e6350d0bbe3bb.jar" />
+    </item>
+    <item
+        jar="D:\SDKs\android-sdk-windows-r24-updated\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-07c791b03a1de3dd68118ef4b58f972dcc9ccd40.jar" />
+    </item>
+    <item
+        jar="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\pre-dexed\debug\classes-546b29645b72cac647522030ce3b0699b91d53c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\niruliang\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-c0595a64ad9c0bcadcfa4cbbbf8c6a0f652772b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\niruliang\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="E:\zld\react-native\demo\PropertyFinder\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0-e4956b7c83a2a4778aa1d1313eb9695ad256e2fe.jar" />
+    </item>
+
+</items>
